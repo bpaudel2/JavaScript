@@ -1,0 +1,18 @@
+Testing:
+    Test driven development
+
+    validating the expection of something
+    for coding, validating the output of our code
+
+    failing a test tells you limitation of it.
+    Spec is just a container for test. It identifies the exact feature we're Testing
+    Suite is group of related specs.
+
+
+Red 
+Green
+Refactor
+
+Red Green Refactor Cycle:
+Testing Asynchronous Code:
+
